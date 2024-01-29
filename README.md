@@ -19,8 +19,10 @@ iwslt2023_mr-hi/
 │     └─ txt/
 │        └─ dev.hi
 │     └─ wav/
-│  ├─ test (released unlabeled data only)/
+│  ├─ test/
 │     └─ stamped.tsv
+│     └─ txt/
+│        └─ test.hi ((released 2023 test data only))
 │     └─ wav/
 │ 
 ├─ LICENSE.md
