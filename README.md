@@ -5,6 +5,8 @@ Marathi is an Indo-Aryan language which has the ISO code mr, and is dominantly s
 
 IWSLT participants may obtain the [Marathi-Hindi speech translation data](https://github.com/panlingua/iwslt2023_mr-hi) without any cost. Please sign [this form](http://panlingua.co.in/iwslt-2023/IWSLT2023_mr-hi_Panlingua_Agreement.pdf) and email it to info@panlingua.co.in. This corpus consists of 30 hours of audio speech data from the news domain and translations into Hindi text.
 
+[April 2 Update:] THE TEST DATA FOR 2024 IS NOW AVAILABLE [HERE](https://github.com/panlingua/iwslt2023_mr-hi/tree/main/test-2024)
+
 ## Structure of the ` Shared Task data`:
 ```
 iwslt2023_mr-hi/
@@ -22,7 +24,10 @@ iwslt2023_mr-hi/
 │  ├─ test/
 │     └─ stamped.tsv
 │     └─ txt/
-│        └─ test.hi ((released 2023 test data only))
+│        └─ test.hi
+│     └─ wav/
+│  ├─ test-2024 (only audio files for the IWSLT 2024 evaluation campaign)/
+│     └─ stamped.tsv
 │     └─ wav/
 │ 
 ├─ LICENSE.md
@@ -32,11 +37,12 @@ iwslt2023_mr-hi/
 **The data statistics are presented below:
 -----------------------------------------------------
 ```
-│ Language	        | Total_audios ( Total_Hours) | Total_translated_Sentences/   │
-│                       │                             │    Total_translated_Segements │ 
-│ Marathi-Hindi (train) │      7990            	      │          7990                 │
-│ Marathi-Hindi (dev)   │      2103                   │          2103                 │
-│ Marathi-Hindi (test)  │      2164                   │         2164                  │
+│ Language	             | Total_audios ( Total_Hours) | Total_translated_Sentences/   │
+│                            │                             │    Total_translated_Segements │ 
+│ Marathi-Hindi (train)      │      7990            	  │          7990                 │
+│ Marathi-Hindi (dev)        │      2103                   │          2103                 │
+│ Marathi-Hindi (test)       │      2164                   │         2164                  │
+│ Marathi-Hindi (test-2024)  │      291                    │         -                     │
 ```
 * Participants can get the additional Marathi audio data (with transcription) from here: [Common Voice](https://commonvoice.mozilla.org/en/datasets), [OpenSLR](https://www.openslr.org/64/), and [Indian Language Corpora](https://www.cse.iitb.ac.in/~pjyothi/indiccorpora/).
 
