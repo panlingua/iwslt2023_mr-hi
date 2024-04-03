@@ -3,7 +3,7 @@
 # Introduction
 Marathi is an Indo-Aryan language which has the ISO code mr, and is dominantly spoken in India’s Maharashtra state. It is one of the 22 scheduled languages of India and the official language of Maharashtra and Goa. As per the 2011 Census of India, it has around 83 million speakers which covers 6.86% of the country’s total population. Marathi speakers rank third amongst the languages that are spoken in India.
 
-IWSLT participants may obtain the [Marathi-Hindi speech translation data](https://github.com/panlingua/iwslt2023_mr-hi) without any cost. Please sign [this form](http://panlingua.co.in/iwslt-2023/IWSLT2023_mr-hi_Panlingua_Agreement.pdf) and email it to info@panlingua.co.in. This corpus consists of 30 hours of audio speech data from the news domain and translations into Hindi text.
+IWSLT participants may obtain the [Marathi-Hindi speech translation data](https://github.com/panlingua/iwslt2023_mr-hi) without any cost. Please sign [this form](http://panlingua.co.in/iwslt-2023/IWSLT2023_mr-hi_Panlingua_Agreement.pdf) and email it to info@panlingua.co.in. This corpus consists of 22 hours of audio speech data from the news domain and translations into Hindi text.
 
 [April 2 Update:] THE TEST DATA FOR 2024 IS NOW AVAILABLE [HERE](https://github.com/panlingua/iwslt2023_mr-hi/tree/main/test-2024)
 
