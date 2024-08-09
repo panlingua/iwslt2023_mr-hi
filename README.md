@@ -54,6 +54,66 @@ We would like to thank [Panlingua Language Processing LLP](http://panlingua.co.i
 
 ## References
 <pre>
+   @inproceedings{ahmad-etal-2024-findings,
+    title = "{FINDINGS} {OF} {THE} {IWSLT} 2024 {EVALUATION} {CAMPAIGN}",
+    author = {Ahmad, Ibrahim Said  and
+      Anastasopoulos, Antonios  and
+      Bojar, Ond{\v{r}}ej  and
+      Borg, Claudia  and
+      Carpuat, Marine  and
+      Cattoni, Roldano  and
+      Cettolo, Mauro  and
+      Chen, William  and
+      Dong, Qianqian  and
+      Federico, Marcello  and
+      Haddow, Barry  and
+      Javorsk{\'y}, D{\'a}vid  and
+      Krubi{\'n}ski, Mateusz  and
+      Kim Lam, Tsz  and
+      Ma, Xutai  and
+      Mathur, Prashant  and
+      Matusov, Evgeny  and
+      Maurya, Chandresh  and
+      McCrae, John  and
+      Murray, Kenton  and
+      Nakamura, Satoshi  and
+      Negri, Matteo  and
+      Niehues, Jan  and
+      Niu, Xing  and
+      Ojha, Atul Kr.  and
+      Ortega, John  and
+      Papi, Sara  and
+      Pol{\'a}k, Peter  and
+      Posp{\'\i}{\v{s}}il, Adam  and
+      Pecina, Pavel  and
+      Salesky, Elizabeth  and
+      Sethiya, Nivedita  and
+      Sarkar, Balaram  and
+      Shi, Jiatong  and
+      Sikasote, Claytone  and
+      Sperber, Matthias  and
+      St{\"u}ker, Sebastian  and
+      Sudoh, Katsuhito  and
+      Thompson, Brian  and
+      Waibel, Alex  and
+      Watanabe, Shinji  and
+      Wilken, Patrick  and
+      Zem{\'a}nek, Petr  and
+      Zevallos, Rodolfo},
+    editor = "Salesky, Elizabeth  and
+      Federico, Marcello  and
+      Carpuat, Marine",
+    booktitle = "Proceedings of the 21st International Conference on Spoken Language Translation (IWSLT 2024)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand (in-person and online)",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.iwslt-1.1",
+    pages = "1--11",
+    abstract = "This paper reports on the shared tasks organized by the 21st IWSLT Conference. The shared tasks address 7 scientific challenges in spoken language translation: simultaneous and offline translation, automatic subtitling and dubbing, speech-to-speech translation, dialect and low-resource speech translation, and Indic languages. The shared tasks attracted 17 teams whose submissions are documented in 27 system papers. The growing interest towards spoken language translation is also witnessed by the constantly increasing number of shared task organizers and contributors to the overview paper, almost evenly distributed across industry and academia.",
+}
+</pre>
+<pre>
 @inproceedings{agrawal-etal-2023-findings,
     title = "{FINDINGS} {OF} {THE} {IWSLT} 2023 {EVALUATION} {CAMPAIGN}",
     author = {Agarwal, Milind  and
@@ -131,8 +191,6 @@ We would like to thank [Panlingua Language Processing LLP](http://panlingua.co.i
     pages = "1--61",
     abstract = "This paper reports on the shared tasks organized by the 20th IWSLT Conference. The shared tasks address 9 scientific challenges in spoken language translation: simultaneous and offline translation, automatic subtitling and dubbing, speech-to-speech translation, multilingual, dialect and low-resource speech translation, and formality control. The shared tasks attracted a total of 38 submissions by 31 teams. The growing interest towards spoken language translation is also witnessed by the constantly increasing number of shared task organizers and contributors to the overview paper, almost evenly distributed across industry and academia.",
 }
-
-
 </pre>
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) =====================================================
